@@ -1,5 +1,6 @@
 # Site settings
 baseurl = "https://example.org/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Jasmine African Hair Braiding"
 theme = "hugo-agency-theme"
