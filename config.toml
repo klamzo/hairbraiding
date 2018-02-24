@@ -1,6 +1,7 @@
 # Site settings
 baseurl = "https://klamzo.github.io/hairbraiding/"
 publishDir = "docs"
+themesDir = "themes"
 languageCode = "en-us"
 title = "Jasmine African Hair Braiding"
 theme = "hugo-agency-theme"
